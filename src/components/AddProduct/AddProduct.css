@@ -1,0 +1,46 @@
+.add-product-form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin-top: 60px;
+  border: 2px solid var(--secondary-color);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+h2 {
+  align-items: center;
+  color: #57b849;
+}
+
+.add-product-form .MuiFormControl-root {
+  margin-bottom: 16px;
+}
+
+.add-product-form .MuiTextField-root {
+  margin-bottom: 16px;
+}
+
+.add-product-form .MuiButton-root {
+  background-color: #57b849;
+  color: white;
+}
+
+.add-product-form .MuiButton-root:hover {
+  background-color: #4a9b3d;
+}
+
+.add-product-form .MuiButton-contained {
+  background-color: #57b849;
+  color: white;
+}
+
+.add-product-form .MuiButton-contained:hover {
+  background-color: #4a9b3d;
+}
