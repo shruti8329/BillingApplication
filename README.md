@@ -9,6 +9,7 @@ Frontend Installinzation :
 4. E:\Laundry Billing System>cd frontend
 4.E: \Laundry Billing System\frontend>
 5. E:\Laundry Billing System\frontend> npm run dev
+6.   ➜  Local:   http://localhost:5173/
 
 Backend
 1. Eclipse
